@@ -3,26 +3,26 @@
 Privacy policy
 ==============
 
-This privacy policy applies to 'Ethiosat' android Application. you agree to this privacy policy by installing and using this Application. please do not install or use this Application if you do not agree with this privacy policy.
+This privacy policy applies to Yene Delivery android Application. you agree to this privacy policy by installing and using this Application. please do not install or use this Application if you do not agree with this privacy policy.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
 
 Information Collection and Use
 ------------------------------
 
-we do not collect or use any personal data from users. the Application does not send any information to Orosoft Technologies without users knowledge. if you send us feedback or question via email, your email address is visible to us and we may contact you directly through that email if necessary.
+we do not collect or use any personal data from users. the Application does not send any information to yeredsoft Technologies without users knowledge. if you send us feedback or question via email, your email address is visible to us and we may contact you directly through that email if necessary.
 
 we do not ask any personal information such as:- your name, country, place of birth, email address, photos, phone number and etc from our customers.
 
 Children's Privacy
 ------------------
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+These Services do not address anyone under the age of 18. We do not knowingly collect personally identifiable information from children under 13.
 
 Changes to This Privacy Policy
 ------------------------------
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review [this page](https://github.com/Dessalew0988107722/privecy_policy/blob/master/privac_ypolicy.html) periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+We may update our Privacy Policy from time to time. Thus, you are advised to review [this page](https://github.com/Dessalew098/privecy_policy/blob/master/privac_ypolicy.html) periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 Links to Other Sites
 --------------------
@@ -33,4 +33,4 @@ Contact Us
 ----------
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Email : deliveryrimas@gmail.com
+Email : fdessalew@gmail.com
