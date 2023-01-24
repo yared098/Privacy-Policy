@@ -3,9 +3,9 @@
     
 Welcome to YeneDelivery Privacy Policy.
 
-yasoft (“us”, “we”, or “our”) operates www.YeneDelivery.com (hereinafter referred to as “Service”).
+yasoft (“us”, “we”, or “our”) operates YeneDelivery (hereinafter referred to as “Service”).
 
-Our Privacy Policy governs your visit to www.YeneDelivery.com, and explains how we collect, safeguard and disclose information that results from your use of our Service.
+Our Privacy Policy governs your visit to https://github.com/yared098/Privacy-Policy/edit/main/README.md and explains how we collect, safeguard and disclose information that results from your use of our Service.
 
 We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
